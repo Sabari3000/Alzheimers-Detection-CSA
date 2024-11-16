@@ -22,6 +22,7 @@ The dataset contains MRI images divided into the following categories:
 - **Moderate Dementia**: 488 images
 
 From Kaggle - https://www.kaggle.com/datasets/ninadaithal/imagesoasis
+
 ---
 
 ## Project Structure
