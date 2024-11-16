@@ -31,6 +31,7 @@ From Kaggle - https://www.kaggle.com/datasets/ninadaithal/imagesoasis
 project_directory/
 ├── New Data/                    # Folder containing MRI images
 ├── Train/                       # Folder containing training images
+├── Alzheimer CSA.pptx           # PPT of the project
 ├── CSA.ipynb                    # Jupyter file of project
 ├── README.md                    # Project documentation
 ├── final_model.joblib           # Trained model file
