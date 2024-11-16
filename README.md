@@ -32,14 +32,15 @@ project_directory/
 ├── New Data/                    # Folder containing MRI images
 ├── Train/                       # Folder containing training images
 ├── CSA.ipynb                    # Jupyter file of project
+├── README.md                    # Project documentation
 ├── final_model.joblib           # Trained model file
 ├── final_model.pkl              # Trained model file
 ├── predict_image.py             # Script to predict the risk of Alzheimer's from an MRI image
 ├── requirements.txt             # List of Python dependencies
 ├── scaler.joblib                # Scaler file for feature normalization
 ├── scaler.joblib                # Scaler file for feature normalization
-├── train_model.py               # Script to train the model
-└── README.md                    # Project documentation
+└── train_model.py               # Script to train the model
+
 
 ```
 
